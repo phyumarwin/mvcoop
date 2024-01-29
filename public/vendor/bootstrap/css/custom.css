@@ -1,0 +1,57 @@
+@font-face {
+    font-family:Libre;
+    src: url(../../fonts/Libre_Baskerville/LibreBaskerville-Regular.ttf);
+}
+
+@font-face {
+    font-family: Roboto;
+    src: url(../../fonts/Roboto_Serif/RobotoSerif-VariableFont_GRAD\,opsz\,wdth\,wght.ttf);
+}
+.button_color{    
+        background-color: #5F5E9E !important; 
+        border: none;
+        display: inline-block;
+        color: #000;
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 4px 2px;
+        cursor: pointer;
+    }
+
+.bg-color{
+    background: #DBDCED;
+}
+.bg-edit{
+    background-color: #DBDCED !important;
+}
+.divided{
+    border: 1px solid white;
+}
+h3,small{
+    font-family: Libre;
+}
+a,i,label{
+    font-family: Roboto;
+}
+#example_info{
+    font-family: Roboto;
+}
+
+  button{
+    color:#000;
+    font-style: bold;
+
+  }
+  label {
+    display:block;
+    font-weight:bold;
+    margin:5px 0;
+  }
+  .alert-success{
+   background-color:  #5F5E9E !important; 
+  } 
+  
+

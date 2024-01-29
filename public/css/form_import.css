@@ -1,0 +1,20 @@
+/* For Import */
+
+button.btn {
+    /* height: 46px !important; */
+    border-radius: 25px !important;
+}
+
+a {
+    /* height: 46px !important; */
+    border-radius: 25px !important;
+}
+
+input {
+    border-radius: 25px !important;
+}
+
+select,
+option {
+    border-radius: 25px !important;
+}
